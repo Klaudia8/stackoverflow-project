@@ -1,0 +1,4 @@
+*.txt
+*.png
+data/
+praca/*(pdf|aux|log|pdg|gz|toc|dvi|ps)+

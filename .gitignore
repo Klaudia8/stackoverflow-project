@@ -4,3 +4,4 @@ praca/*
 praca/Praca.tex
 *.pdf
 *checkpoints
+data/*

@@ -1,4 +1,5 @@
 *.txt
 *.png
-data/
-praca/
+praca/*
+*.pdf
+*checkpoints
